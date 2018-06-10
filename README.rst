@@ -1,7 +1,7 @@
 .. image:: ../../../elasticsearch-river-jdbc/raw/master/src/site/origami.png
 
 Elasticsearch JDBC river
-========================
+==========================
 
 The Java Database Connection (JDBC) `river <http://www.elasticsearch.org/guide/reference/river/>`_  allows to fetch data from JDBC sources for indexing into `Elasticsearch <http://www.elasticsearch.org>`_. 
 
